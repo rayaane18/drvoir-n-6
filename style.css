@@ -171,6 +171,7 @@ box-sizing: content-box;
     flex-wrap: wrap;
   box-sizing: border-box; 
   gap: 15px;
+  padding: 20px;
    padding-top: 20px;
  padding-bottom: 20px;
    } .section4 img{
@@ -218,6 +219,7 @@ box-sizing: content-box;
     align-items: start;
     flex-wrap: nowrap;
     text-align: left;
+    padding: 20px;
    }
    .section5 h3{
     text-align: left;
