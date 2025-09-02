@@ -121,7 +121,6 @@ box-sizing: content-box;
     font-size: 20px ;
    padding-left: 100px;
    padding-right: 100px;
-   border:auto ;
      animation: fadeInUp 1s ease both;
    }
    .section1 p{
@@ -241,7 +240,6 @@ animation:fade-in-fwd 1ms steps(2,start) both;
   gap: 15px;
   padding: 30px;
    padding-top: 200px;
- padding-bottom: 20px;
    animation: fadeInUp 1s ease both;
    } 
    .section4 img{
@@ -283,7 +281,6 @@ animation:fade-in-fwd 1ms steps(2,start) both;
     flex-wrap: nowrap;
  justify-content: center;
  padding-top: 80px;
- padding-bottom: 20px;
  margin: 0;
    animation: fadeInUp 1s ease both;
    }
